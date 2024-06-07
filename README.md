@@ -1,5 +1,5 @@
--  Hi, I’m @lizard25
 -  I’m interested in learning more
 -  I’m currently Working on research in ML/AI using Python and the EIC simulation
 -  I’m looking to collaborate on projects that lead to learning
-- Reach me via email
+-  Reach me via email
+-  I do most of my work off GitHub
