@@ -1,5 +1,6 @@
 -  I’m interested in learning more
--  I’m currently Working on research in ML/AI and the EIC simulation
+-  Computer Science and Physics
+-  I’m currently Working on research in ML/AI, Medical Imaging, and the EIC simulation
 -  I’m looking to collaborate on projects that lead to learning
 -  Reach me via email
 -  I do most of my work outside GitHub
