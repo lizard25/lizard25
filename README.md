@@ -1,6 +1,6 @@
 -  I’m interested in learning more
 -  Computer Science and Physics
--  I’m currently Working on research in ML/AI, Medical Imaging, and the EIC simulation
+-  I’m currently Working on research & Development in ML/AI (projects on LLMs and regression and classification) at Knorr Bremse as a data scientist
 -  I’m looking to collaborate on projects that lead to learning
 -  Reach me via email
 -  I do most of my work outside GitHub
